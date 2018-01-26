@@ -10,13 +10,16 @@ Loot is a cryptocurrency trading platform simulator built on React / Redux / Rai
 # Core Features
 
 ## Real-Time Market Pricing Table
-<div width='100%'><img src="./gifs/test-price.gif" alt="Loot Pricing"></div>
+<div width='100%'><img src="./gifs/market-prices.gif" alt="Loot Pricing"></div>
 
 ## Search Across 1800+ Cryptocurrencies
+<div width='100%'><img src="./gifs/search.gif" alt="Loot Pricing"></div>
 
 ## Create Portfolio
+<div width='100%'><img src="./gifs/create-portfolio.gif" alt="Loot Pricing"></div>
 
 ## View Portfolio Performance
+<div width='100%'><img src="./gifs/view-portfolio.gif" alt="Loot Pricing"></div>
 
 ## Buy / Sell Cryptocurrency Holdings
 
