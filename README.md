@@ -5,6 +5,7 @@
 
 # Description
 Loot is a cryptocurrency trading platform simulator built on React / Redux / Rails.
+
 ![Loot Welcome Page](https://i.imgur.com/nu7eyph.png)
 
 # Core Features
