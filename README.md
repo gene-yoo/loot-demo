@@ -22,7 +22,8 @@ Loot is a cryptocurrency trading platform simulator built on React / Redux / Rai
 ![Loot Crypto Search](gifs/search.gif)
 
 ## 2. Real-Time Market Pricing
-- As a user, I am able to see market prices updated on a near real-time basis so that I can track price fluctuations.
+- As a user, I am able to see market prices updated on a real-time basis so that I can track price fluctuations.
+- As a user, I am able to view price fluctuations over 24 hour, 7 day, 1 month, and 3 month timelines so that I can better understand market volatility.
 
 ![Loot Market Prices](gifs/market-prices.gif)
 
