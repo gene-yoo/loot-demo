@@ -9,12 +9,12 @@ Loot is a cryptocurrency trading platform simulator built on React / Redux / Rai
 ![Loot Welcome Page](https://i.imgur.com/nu7eyph.png)
 
 # Core Features
-1. Search Across 1800+ Cryptocurrencies
-2. Real-Time Market Pricing
-3. Create Portfolio
-4. View Portfolio Performance
-5. Buy and/or Sell Cryptocurrencies
-6. User Authentication / Authorization
+1. [Search Across 1800+ Cryptocurrencies](#1-search-across-1800-cryptocurrencies)
+2. [Real-Time Market Pricing](#2-real-time-market-pricing)
+3. [Create Portfolio](#3-create-portfolio)
+4. [View Portfolio Performance](#4-view-portfolio-performance)
+5. [Buy and Sell Cryptocurrencies](#5-buy-and-sell-cryptocurrencies)
+6. [User Authentication and Authorization](#6-user-authentication-and-authorization)
 
 ## 1. Search Across 1800+ Cryptocurrencies
 - As a user, I am able to search for a cryptocurrency by name or symbol so that I can make informed trading decisions.
@@ -37,12 +37,12 @@ Loot is a cryptocurrency trading platform simulator built on React / Redux / Rai
 
 ![Loot View Portfolio](gifs/view-portfolio.gif)
 
-## 5. Buy and/or Sell Cryptocurrencies
+## 5. Buy and Sell Cryptocurrencies
 - As a user, I am able to buy and sell cryptocurrencies at latest market prices so that I can commit trades to my portfolio.
 
 ![Loot Buy and Sell Crypto](gifs/buy-sell-crypto.gif)
 
-## 6. User Authentication / Authorization
+## 6. User Authentication and Authorization
 - As a user, I am able to login to the application with my credentials so that I can view my portfolio performance.
 
 ![Loot User Auth](gifs/user-auth.gif)
