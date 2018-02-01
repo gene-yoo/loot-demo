@@ -1,4 +1,4 @@
-# Loot Project Demo
+# Loot Project Demo (See README)
 ### Author: Gene Yoo
 ### Contact: gene.y.yoo@gmail.com
 ### Github: <a href="https://github.com/gene-yoo">https://github.com/gene-yoo</a>
